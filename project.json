@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.167126896",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,10 +43,10 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "c8849c8b-afea-4faa-ad00-5e9a846bdac2",
         "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
+        "fileName": "BL_ExportBOM_PL.xaml"
       }
     ],
     "saveToCloud": false
